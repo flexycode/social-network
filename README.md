@@ -1,4 +1,4 @@
 # social-network
 Blockchain technology social network powered by Ethereum blockchain smart contract.
 
-Update soon.
+Updating within this month
